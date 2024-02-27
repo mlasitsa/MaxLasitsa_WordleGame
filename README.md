@@ -32,7 +32,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[https://i.imgur.com/sPnz2F9.gif](https://imgur.com/gallery/prq7QTd)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='(https://i.imgur.com/sPnz2F9.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
+
+https://i.imgur.com/sPnz2F9.gif
 
 GIF created with:  
 [ScreenToGif](https://www.screentogif.com/) for Windows
